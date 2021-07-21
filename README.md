@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey Guys 👋
+
+My name is Rafael Goncalves 🇧🇷
+I'm A Front-End Developer Jr, Systems Analysis and Development Student and passionate about technology.
+
+
+[![Instagram Badge](https://img.shields.io/badge/-ramosht_-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaaelgoncalves/)](https://www.instagram.com/rafaaelgoncalves/)
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaael-goncalves/)](https://www.linkedin.com/in/rafaael-goncalves/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 <!--
 **ralves-web/ralves-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
