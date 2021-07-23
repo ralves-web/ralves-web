@@ -2,7 +2,7 @@
 
 My name is Rafael Goncalves 🇧🇷
 
-I'm A Front-End Developer Jr, Systems Analysis and Development Student and passionate about technology.
+I'm A Front-End Developer Jr, Systems Analysis and Development Student and passionate about technology
 
 
 [![Instagram Badge](https://img.shields.io/badge/-RafaelAlves-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaaelgoncalves/)](https://www.instagram.com/rafaaelgoncalves/)
